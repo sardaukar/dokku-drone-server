@@ -17,5 +17,5 @@ Steps:
 
 Don't forget to deploy again after logging in to Gogs and change `ENV DRONE_OPEN` to `false` in the Dockerfile.
 
-[here]: https://blog.nootch.net/2018/06/24/self-hosted-developer-bliss/
+[here]: https://blog.nootch.net/post/self-hosted-developer-bliss/
 [is here]: https://github.com/sardaukar/dokku-drone-agent
